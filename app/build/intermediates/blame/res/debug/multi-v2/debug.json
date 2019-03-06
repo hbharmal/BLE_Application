@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hussainbharmal/Desktop/QuickStartApp/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/hussainbharmal/Desktop/QuickStartApp/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/hussainbharmal/Desktop/QuickStartApp/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/hussainbharmal/Desktop/QuickStartApp/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "200",
+                        "endColumns": "58",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/hussainbharmal/Desktop/QuickStartApp/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/hussainbharmal/Desktop/QuickStartApp/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/hussainbharmal/Desktop/QuickStartApp/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,12,7,16,11,8,17,6,22,10,15,18,20,21,5,26,9,23,28,14,13,29,25,19,27,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "108,56,540,286,902,502,346,944,238,1224,448,742,996,1114,1175,161,1460,390,1268,1640,650,586,1686,1410,1058,1546,1340",
+                        "endColumns": "52,51,45,59,41,37,43,51,47,43,53,159,61,60,48,76,85,57,71,45,91,63,64,49,55,93,69",
+                        "endOffsets": "156,103,581,341,939,535,385,991,281,1263,497,897,1053,1170,1219,233,1541,443,1335,1681,737,645,1746,1455,1109,1635,1405"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,274,320,380,422,460,504,556,604,648,702,862,924,985,1034,1111,1197,1255,1327,1373,1465,1529,1594,1644,1700,1794",
+                        "endColumns": "52,51,45,59,41,37,43,51,47,43,53,159,61,60,48,76,85,57,71,45,91,63,64,49,55,93,69",
+                        "endOffsets": "217,269,315,375,417,455,499,551,599,643,697,857,919,980,1029,1106,1192,1250,1322,1368,1460,1524,1589,1639,1695,1789,1859"
+                    }
+                },
+                {
+                    "source": "/Users/hussainbharmal/Desktop/QuickStartApp/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "31,38",
+                        "startColumns": "4,4",
+                        "startOffsets": "1864,2155",
+                        "endLines": "37,40",
+                        "endColumns": "12,12",
+                        "endOffsets": "2150,2310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/hussainbharmal/Desktop/QuickStartApp/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/hussainbharmal/Desktop/QuickStartApp/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

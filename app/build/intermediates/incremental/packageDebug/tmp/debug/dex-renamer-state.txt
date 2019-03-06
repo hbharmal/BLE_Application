@@ -1,0 +1,4 @@
+#Wed Mar 06 00:13:16 CST 2019
+base.0=/Users/hussainbharmal/Desktop/QuickStartApp/app/build/intermediates/transforms/dexMerger/debug/14
+path.0=classes.dex
+renamed.0=classes.dex
